@@ -1,5 +1,5 @@
 
-#Entrega: Resolvendo Conflitos.
+#Entrega: Resolvendo Conflitos..
 
 ## Primeiro fato sobre <William>
 
